@@ -1,0 +1,1 @@
+var e=`/assets/registry-CnV6P-6C.jpg`;export{e as t};

@@ -1,0 +1,14 @@
+# MarriageExpo
+
+> A free, always-open wedding vendor directory and bridal show listing for Anaheim and Orange County, California, operated by Business Expo Center.
+
+## Pages
+- [Home](https://www.bytediner.com/): Wedding vendor directory, filmed vendor video introductions, and bridal shows.
+- [Bridal shows](https://www.bytediner.com/websites): Upcoming wedding expos and bridal shows near you.
+- [Venues](https://www.bytediner.com/venues): Wedding venues and vendors by city and style.
+- [Vendor directory](https://www.bytediner.com/registry): Browse wedding vendors across 12 categories.
+
+## Notes
+- Browsing is free for couples; no ticket or account required.
+- Wedding professionals can claim a free exhibitor listing at https://www.businessexpocenter.com/apply/
+- Contact: Business Expo Center, Anaheim, California, US — https://www.businessexpocenter.com/

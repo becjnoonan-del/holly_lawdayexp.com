@@ -1,1 +1,0 @@
-var e=`/assets/hero-wedding-CF8dJFaG.jpg`;export{e as t};
